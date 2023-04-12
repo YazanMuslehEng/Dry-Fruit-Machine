@@ -1,2 +1,3 @@
-# Multi_Timer
-Arduino Based _ Multi 7Segment Screen Timer
+# Dry Fruit Machine
+Arduino Based Code for a Machine that makes Dry Fruit
+Note : this was only tested in simulation
